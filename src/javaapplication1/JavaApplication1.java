@@ -17,6 +17,7 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
        System.out.println("Hello, It's not me");
+       System.out.println("Окей, я понял");
     }
     
 }
