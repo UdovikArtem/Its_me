@@ -16,6 +16,7 @@ public class JavaApplication1 {
      */
     public static void main(String[] args) {
        System.out.println("Hello, It's me");
+        System.out.println("Hellow, It's not me");
     }
     
 }
