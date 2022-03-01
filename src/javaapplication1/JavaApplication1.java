@@ -1,3 +1,4 @@
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -15,8 +16,7 @@ public class JavaApplication1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-       System.out.println("Hello, It's me");
-        System.out.println("Hellow, It's not me");
+       System.out.println("Hello, It's not me");
     }
     
 }
